@@ -1,1 +1,1 @@
-# react-global-mentoring
+# react-global-mentoring-pgm
